@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+  functions = "convex" # If using Netlify functions
+
+[build.environment]
+  NEXT_PUBLIC_CONVEX_URL = "https://hidden-fennec-874.convex.cloud"
+  
