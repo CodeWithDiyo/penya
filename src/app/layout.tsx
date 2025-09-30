@@ -7,10 +7,10 @@ import Script from 'next/script';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'DIYOWLINK',
+  title: 'PENYA',
   description: 'Discover the best deals and trending products',
   openGraph: {
-    title: 'DIYOWLINK',
+    title: 'PENYA',
     description: 'Discover the best deals and trending products',
     url: 'https://yourwebsite.com',
     images: [
